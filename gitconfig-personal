@@ -1,0 +1,9 @@
+[user]
+email = nastja.makhonina.dev@example.com
+name = Anastasia Makhonina
+ 
+[github]
+user = nastjamakh
+ 
+[core]
+sshCommand = “ssh -i ~/.ssh/id_ed25519”
